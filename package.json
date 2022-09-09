@@ -12,7 +12,7 @@
     "react-dom": "^16.2.0",
     "react-dropzone": "^4.2.8",
     "react-scripts": "1.1.5",
-    "web3": "^1.0.0-beta.35"
+    "web3": "^1.2.7"
   },
   "scripts": {
     "start": "PORT=3000 ROOT_URL=127.0.0.1 react-scripts start",
